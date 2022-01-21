@@ -1,0 +1,7 @@
+{
+  "name": "Banzai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
