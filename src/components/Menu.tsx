@@ -4,16 +4,14 @@ import {
     IonItem,
     IonLabel,
     IonList,
-    IonListHeader,
     IonMenu,
     IonMenuToggle,
-    IonNote,
     IonTitle,
     isPlatform,
 } from '@ionic/react';
 
 import { useLocation } from 'react-router-dom';
-import { archiveOutline, archiveSharp, bookmarkOutline, businessOutline, businessSharp, cashOutline, cashSharp, desktopOutline, desktopSharp, heartOutline, heartSharp, helpCircleOutline, helpCircleSharp, mailOutline, mailSharp, paperPlaneOutline, paperPlaneSharp, schoolOutline, schoolSharp, trashOutline, trashSharp, warningOutline, warningSharp } from 'ionicons/icons';
+import {  businessOutline, businessSharp, cashOutline, cashSharp, desktopOutline, desktopSharp, helpCircleOutline, helpCircleSharp, schoolOutline, schoolSharp} from 'ionicons/icons';
 import './Menu.css';
 import React from 'react';
 
