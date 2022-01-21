@@ -74,7 +74,7 @@ const Home: React.FC = () => {
                             </IonCol>
                             {/*IMAGE COLUMN*/}
                             <IonCol size="12" size-lg="5">
-                                <img src="/assets/images/ipad2.png" style={{ width: "100%" }} />
+                                <img src="/assets/images/ipad2.png" style={{ width: "100%" }} alt="ipad with banzai on screen"/>
                             </IonCol>
                         </IonRow>
                     </IonGrid>
