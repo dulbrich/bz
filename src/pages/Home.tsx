@@ -98,25 +98,25 @@ const Home: React.FC = () => {
                                 <IonRow><IonText><h1><IonIcon icon={happyOutline} /></h1></IonText></IonRow>
                                 <IonRow><IonText className="lemon">EMPLOYEE SATISFACTION</IonText></IonRow>
                                 <IonRow>&nbsp;</IonRow>
-                                <IonRow><IonText style={{fontWeight: "600"}} color="medium">Lorem <a color="blue" href="">ipsum dolor</a> sit amet, consectetur adipiscing elit.</IonText></IonRow>
+                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="https://www.google.com/">ipsum dolor</a> sit amet, consectetur adipiscing elit.</IonText></IonRow>
                             </IonCol>
                             <IonCol size="12" size-lg="3" className="ion-padding">
                                 <IonRow><IonText><h1><IonIcon icon={happyOutline} /></h1></IonText></IonRow>
                                 <IonRow><IonText className="lemon">2 MILLION USERS</IonText></IonRow>
                                 <IonRow>&nbsp;</IonRow>
-                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="">ipsum dolor</a> sit amet, consectetur adipiscing elit. Vivamus tincidunt erat non sollicitudin <a color="secondary" href="">ultricies.</a></IonText></IonRow>
+                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="https://www.google.com/">ipsum dolor</a> sit amet, consectetur adipiscing elit. Vivamus tincidunt erat non sollicitudin <a color="secondary" href="https://www.google.com/">ultricies.</a></IonText></IonRow>
                             </IonCol>
                             <IonCol size="12" size-lg="3" className="ion-padding">
                                 <IonRow><IonText><h1><IonIcon icon={happyOutline} /></h1></IonText></IonRow>
                                 <IonRow><IonText className="lemon">100+ RESOURCES</IonText></IonRow>
                                 <IonRow>&nbsp;</IonRow>
-                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="">ipsum dolor</a>. Nulla non urna sed velit feugiat ornare. Maecenas auctor posuere <a color="secondary" href="">ullamcorper</a>. </IonText></IonRow>
+                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="https://www.google.com/">ipsum dolor</a>. Nulla non urna sed velit feugiat ornare. Maecenas auctor posuere <a color="secondary" href="https://www.google.com/">ullamcorper</a>. </IonText></IonRow>
                             </IonCol>
                             <IonCol size="12" size-lg="3" className="ion-padding">
                                 <IonRow><IonText><h1><IonIcon icon={happyOutline} /></h1></IonText></IonRow>
                                 <IonRow><IonText className="lemon">EARN REWARDS</IonText></IonRow>
                                 <IonRow>&nbsp;</IonRow>
-                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="">ipsum dolor</a> sit amet.</IonText></IonRow>
+                                <IonRow><IonText style={{ fontWeight: "600" }} color="medium">Lorem <a color="blue" href="https://www.google.com/">ipsum dolor</a> sit amet.</IonText></IonRow>
                             </IonCol>
                         </IonRow>
                         {/*WHY FINANCIAL LITERACY ROW*/}
